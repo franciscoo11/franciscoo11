@@ -3,7 +3,7 @@
 <p align="justify">Desarrollador Web Fullstack con afinidad por el backend. Tengo dos perros, los cuales son mi compañia en largas horas de codeo. Me considero una persona versatil, proactiva, extrovertida y que adora los retos. Me gusta realizar actividades al aire libre con amigos o familia, tocar la guitarra, cantar y amo los perros y los gatos.
 Tambien me gusta participar en proyectos grupales con gente positiva y que aporte valor y experiencias agradables.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marianokuran&label=Profile%20views&color=0e75b6&style=flat" alt="marianokuran" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=franciscoo11&label=Profile%20views&color=0e75b6&style=flat" alt="franciscogiudicatti" /> </p>
 
 - 📫 Contacto **franciscogiudicatti@gmail.com**
 
